@@ -1,0 +1,4 @@
+echo "My Page" > specs.html
+git add specs.html
+git commit -a -m "First pages commit"
+git push origin gh-pages
